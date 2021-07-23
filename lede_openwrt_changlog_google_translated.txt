@@ -1,0 +1,94 @@
+Translation types
+Text translation
+Source text
+###########################Gāi bǎnběn gùjiàn xūyào shòuquán########################### línshí shòuquán fāngshì: Lián wài wǎng hòu, liúlǎn qì fǎngwèn http://192.168.1.1/Cgi-bin/auth.Cgi ######################################################################## 3G/4G/5G chǎnpǐn zhīchí mókuài lièbiǎo: Yí yuǎn EC20 EC25 EP06 EM12 EC200T RM500Q xìn kě ML7820 hé zhòu Air720 guǎng hé tōng L716/8 L610 NL668 NL678 FM150 FG621 SIMCOM 7600 huáwèi 709s-2 MH5000 sī yà lè MC7455(ppp bōhào) yǐ tiānjiā yìngyòng: VPN(pptp l2tp openvpn) ddns wifidog yún dēnglù fùzǎi jūnhéng (jǐn xiàn jì yǒu wan kǒu, yěyǒu 4G de shèbèi) samba(jǐn xiàn yǒu USB kǒu de qiě flash mòrèn wéi 16M huò yǐshàng de shèbèi) qos(jǐn xiàn flash mòrèn wéi 16M huò yǐshàng de shèbèi) zì dìngyì 3/4G ttl zhí dìngshí chóngqǐ 20210313(jǐn gēngxīn MIFI001, qítā xínghào zuìxīnbǎnběn réng wèi 20210301) 1. Xiūfù MIFI001 4G hé LED yìcháng wèntí 20210301 1. Zēngjiā WE2802D-A WE2804 gùjiàn 2. Yōuhuà NL668 hé EC20 diànxìn wù liánwǎng kǎ C-IMSI quēshī xiūfù dàimǎ 20210203 1. Zēngjiā huáwèi mókuài MH5000 zhīchí (5G) 2. Zēngjiā NL668 diànxìn wù liánwǎng kǎ C-IMSI quēshī xiūfù dàimǎ 3. Zēngjiā “zhuàngtài”-“gàilǎn”-“4/5G” xìnhào xiǎnshì lán wǎngluò zhìshì xiǎnshì (jí 2G 3G 4G 5G) 4. Zēngjiā “xìtǒng”-“Web CMD” kuàisù huòqǔ “4/5G xìnxī” ànniǔ 5. Yōuhuà “zhuàngtài”-“gàilǎn”-“4/5G” yùnyíng shāng xiǎnshì lán, guónèi sān dà yùnyíng shāng xiǎnshì yóu yīngwén gǎi wéi zhōngwén 6. Xiūgǎi WE2805 WE2805AC WE1610 WG826 sān sè dēng dìngyì (hóng dēng cháng liàng: Shèbèi qǐdòng zhōng; lǜdēng cháng liàng: Shèbèi qǐdòng wánchéng, wǎngluò bù zhèngcháng; lán dēng cháng liàng: Shèbèi qǐdòng wánchéng, wǎngluò zhèngcháng) 7. Xiūfù luci zhǔtí qiēhuàn wúxiào wèntí 20210120 1. Zēngjiā WE5930 WE5930AC MIFI001 WG826 gùjiàn 2. Zēngjiā guǎng hé tōng FG621 zhīchí (cat6 tiē piàn mókuài) 3. Zēngjiā guǎng hé tōng NL668 GPS jīngwěidù xiǎnshì 4. Zēngjiā U pán tf kǎ HTTP guà zài diǎn, bìng zài shǒuyè “xìtǒng” zēngjiā fǎngwèn tiào zhuǎn dìzhǐ 5. Wúxiàn zhōngduān gélí mòrèn guānbì, bìng zài jièmiàn zēngjiā wúxiàn zhōngduān gélí kāiguān xuǎnxiàng 6. Xiūfù MT7612E tūntǔ liàng jiàngdī wèntí 7. Xiūfù WG1608 5G wifi led bù gōngzuò wèntí 8. Xiūfù MT7621 fāng'àn SD kǎ guà zài hòu wénjiàn yìcháng wèntí 9. Xiūfù kāiqǐ yún dēnglù yǒu gàilǜ dǎozhì xìtǒng bù zhèngcháng wèntí 10. Xiūfù WE5927/WE5927AC SD kǎ wúfǎ zìdòng guà zài wèntí 11. Xiūfù WE1626 USB jiēkǒu wúfǎ shǐyòng wèntí 12. Yōuhuà MT7628 fāng'àn gùjiàn dàxiǎo 13.5.8G mòrèn xìndào cóng 149 xiūgǎi wèi 40 20201207 1. Yí yuǎn gāotōng fāng'àn mókuài mòrèn bōhào fāngshì cóng QMI xiūgǎi wèi GobiNet 2. Xiūgǎi kān mén gǒu hé fùzǎi jūnhéng jiǎncè dìzhǐ cóng www.Microsoft.Com gǎi wèi 114.114.114.114 3.EC200T zēngjiā wú kǎ huò shìbié bù dào yùnyíng shāng shí, zìdòng bǎ jiēkǒu down diào, yǐmiǎn zàochéng ip chōngtú 4.WE2802D WE2803D WD523 zēngjiā chuànkǒu tòu chuán zhí lián 5. Zēngjiā EC20 diànxìn wù liánwǎng kǎ C-IMSI quēshī xiūfù dàimǎ 6. Yōuhuà wúxiàn pèizhì jièmiàn,2.4G zēngjiā pín kuān 20/40 gòngcún kāiguān, zēngjiā xìndào fànwéi xuǎnzé, jí xiūgǎi mòrèn wúxiàn pèizhì (2.4G mòrèn xìndào xuǎnzé fànwéi 1-13, mòrèn wéi Auto(Auto shí bù huì tiào 12 hé 13 xìndào);5.8G mòrèn xìndào xuǎnzé fànwéi 36-64 149-165, mòrèn wéi 149 xìndào) 7. Xiūgǎi samba mòrèn guà zài wèi/mnt/ 8. Xiūfù jiēkǒu cóng PPPOE xiéyì qiè dào jìngtài IP huò DHCP shí, xūyào chóngxīn xuǎnzé wùlǐ jiēkǒu wèntí 20201120 1. Zēngjiā WE5927AC WE2805AC WE5928-EC WE5928-EC-A WG209 WG1608 gùjiàn 2. Jiānróng WE5927 WE2805 gùjiàn xīn bǎn de yìngjiàn (yìngjiàn gǎibǎn) 3. Xiūfù yún dēnglù shǒuhù jiǎoběn chǎnshēng jiāngshī jìnchéng wèntí 4. Xiūfù wan kǒu dhcp xiéyì xià, bō diào wǎngxiàn IP bù shìfàng hé jiē rù xīn de shàngjí shèbèi IP bù chóngxīn huòqǔ wèntí 5. Xiūfù dān mó shuāng kǎ shèbèi “ping jiǎncè qiēhuàn SIM kǎ” jiǎoběn yìcháng 6. Xiūfù opkg wúfǎ zàixiàn ānzhuāng ruǎnjiàn bāo wèntí (jǐn zhīchí fēi nèihé ruǎnjiàn bāo, nèihé ruǎnjiàn bāo tōngcháng yǐ “kmod” kāitóu mìngmíng) 7. Shuāng mó shuāng kǎ shèbèi “fùzǎi jūnhéng” zēngjiā “shuāng mókuài zhǔ bèi” guīzé, xiān kě tōngguò jièmiàn kuàisù qiēhuàn “shuāng mókuài zhǔ bèi”(mòrèn wéi “shuāng mókuài pínghéng”) 8. Zēngjiā zì dìngyì 3/4G ttl zhí jièmiàn 9. Zēngjiā dìngshí chóngqǐ gōngnéng 10. Zēngjiā qos(jǐn xiàn flash mòrèn wéi 16M huò yǐshàng de shèbèi) 20200814 1.4G bōhào chéngxù zēngjiā mǎláixīyà yùnyíng shāng Maxis 19 wèi kǎhào de zhīchí (zhèngcháng shì 20 wèi kǎhào) 2. Zēngjiā dòngtài dns(ddns) 3. Zēngjiā èyǔ 4. Zēngjiā openvpn 5. Xiūfù WE5926 WE5927 WE2426-C wúfǎ shìbié SD kǎ wèntí 6. Xiūfù SD kǎ wúfǎ zìdòng guà zài wèntí
+Show more
+2190 / 5000
+Translation results
+########################### This version of the firmware requires authorization ################## #########
+
+ Temporary authorization method: After connecting to the external network, the browser visits http://192.168.1.1/cgi-bin/auth.cgi
+
+############################################## #####################
+
+3G/4G/5G product support module list:
+Quectel EC20 EC25 EP06 EM12 EC200T RM500Q
+Schenker ML7820
+Hezhou Air720
+Fibocom L716/8 L610 NL668 NL678 FM150 FG621
+SIMCOM 7600
+Huawei 709s-2 MH5000
+Siyale MC7455 (ppp dial)
+
+Application added:
+VPN (pptp l2tp openvpn) ddns wifidog cloud login
+Load balancing (only for devices with both wan port and 4G)
+samba (only for devices with a USB port and the default flash is 16M or above)
+qos (only for devices whose flash defaults to 16M or above)
+Customize 3/4G ttl value and restart regularly
+
+20210313 (only update MIFI001, the latest version of other models is still 20210301)
+1. Fix MIFI001 4G and LED abnormal issues
+
+20210301
+1. Add WE2802D-A WE2804 firmware
+2. Optimize the missing C-IMSI of NL668 and EC20 telecom IoT cards and fix the code
+To
+
+20210203
+1. Add support for Huawei module MH5000 (5G)
+2. Add the missing C-IMSI of NL668 telecom IoT card to fix the code
+3. Add "Status"-"Overview"-"4/5G" signal display column network standard display (ie 2G 3G 4G 5G)
+4. Add "System"-"Web CMD" button to quickly get "4/5G information"
+5. Optimize the "Status"-"Overview"-"4/5G" operator display column, and the display of the three major domestic operators has changed from English to Chinese
+6. Modify the definition of WE2805 WE2805AC WE1610 WG826 tri-color light (red light always on: the device is starting up; green light on: the device is started up and the network is abnormal; the blue light on: the device is started up and the network is normal)
+7. Fix the problem that the luci theme switch is invalid
+
+20210120
+1. Add WE5930 WE5930AC MIFI001 WG826 firmware
+2. Increase the support of Fibocom FG621 (cat6 patch module)
+3. Add Fibocom NL668 GPS latitude and longitude display
+4. Increase the HTTP mount point of the U disk tf card, and add the access redirection address on the home page "System"
+5. The wireless terminal isolation is closed by default, and the wireless terminal isolation switch option is added to the interface
+6. Fix MT7612E throughput reduction problem
+7. Fix WG1608 5G wifi led not working problem
+8. Fix the problem of file abnormality after SD card is mounted in MT7621 solution
+9. Fix the problem that turning on the cloud login may cause the system to be abnormal
+10. Fix the problem that the WE5927/WE5927AC SD card cannot be automatically mounted
+11. Fix the problem that the WE1626 USB interface cannot be used
+12. Optimize the firmware size of the MT7628 solution
+13.5.8G default channel changed from 149 to 40
+
+20201207
+1. Quectel Qualcomm Solution Module The default dialing mode is changed from QMI to GobiNet
+2. Modify the watchdog and load balance detection address from www.microsoft.com to 114.114.114.114
+3. EC200T will automatically shut down the interface when there is no card or the operator cannot be identified, so as to avoid IP conflicts
+4. WE2802D WE2803D WD523 increase serial port transparent transmission and direct connection
+5. Add EC20 Telecom Internet of Things card C-IMSI missing Fix code
+6. Optimize the wireless configuration interface, increase the bandwidth 20/40 coexistence switch for 2.4G, increase the channel range selection, and modify the default wireless configuration (the 2.4G default channel selection range is 1-13, and the default is Auto (it will not skip 12 and 13 channels); 5.8G default channel selection range 36-64 149-165, the default is 149 channels)
+7. Modify the default mount of samba to /mnt/
+8. Fix the problem that the physical interface needs to be reselected when the interface is switched from PPPOE protocol to static IP or DHCP
+
+20201120
+1. Add WE5927AC WE2805AC WE5928-EC WE5928-EC-A WG209 WG1608 firmware
+2. Compatible with the new version of WE5927 WE2805 firmware (hardware revision)
+3. Fix the problem of zombie process generated by cloud login daemon script
+4. Fix the problem that under the wan port dhcp protocol, the IP is not released after the network cable is disconnected and the IP of the new upper-level device is not reacquired
+5. Fix the script exception of "ping detection switch SIM card" for single-mode dual-card devices
+6. Fix the problem that opkg cannot install software packages online (only non-kernel software packages are supported, and the kernel software packages are usually named with "kmod")
+7. The "Load Balancing" of dual-mode dual-card equipment adds the "dual-module active/standby" rule, and the "dual-module active/standby" can be quickly switched through the interface (the default is "dual-module balance")
+8. Add custom 3/4G ttl value interface
+9. Add timer restart function
+10. Add qos (only for devices whose flash defaults to 16M or above)
+
+20200814
+1.4G dialing program adds support for 19-digit card number of Malaysian operator Maxis (normally 20-digit card number)
+2. Increase dynamic dns (ddns)
+3. Increase Russian
+4. Increase openvpn
+5. Fix the problem that WE5926 WE5927 WE2426-C cannot recognize SD card
+6. Fix the problem that the SD card cannot be automatically mounted 
+More about this source text
+Source text required for additional translation information
+Send feedback
+Side panels
